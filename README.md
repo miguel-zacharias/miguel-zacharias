@@ -7,7 +7,7 @@
 
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=24&pause=1000&color=3556E0&center=true&vCenter=true&width=450&lines=Bem-vindo+ao+meu+GitHub!;Desenvolvimento+Web+e+Mobile;Open+Source+Lover;Sempre+aprendendo+e+criando" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=550&lines=What+are+you+looking+for+here%3F;Student+at+SENAI+-+Software+Development;Web+%26+Mobile+Developer;Always+learning+%26+building" alt="Typing SVG" />
 </div>
 
 ---
@@ -32,7 +32,7 @@
 
 ---
 
-## 🏆 GitHub Stats
+## GitHub Stats 🏆
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=miguel-zacharias&theme=radical&show_icons=true&hide_border=false&count_private=true"/>
