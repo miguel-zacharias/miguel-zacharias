@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://avatars.githubusercontent.com/u/184536316?v=4" width="120" style="border-radius:50%" alt="Miguel Zacharias Avatar"/>
-  <h1 align="center" style="color:#3556e0;">Miguel Zacharias</h1>
+
   <p align="center">
     <b>Delevoper in Brasil</b>
   </p>
