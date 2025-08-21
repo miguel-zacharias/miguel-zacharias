@@ -40,7 +40,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguel-zacharias&theme=radical&show_icons=true&hide_border=false&layout=compact"/>
 </div>
 
-## 🌐 Social & Contato
+## Contact 🧷
 
 <div align="center">
   <a href="https://www.linkedin.com/in/miguel-zacharias" target="_blank">
