@@ -36,7 +36,7 @@
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=miguel-zacharias&theme=radical&show_icons=true&hide_border=false&count_private=true"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=miguel-zacharias&theme=radical&hide_border=false"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguel-zacharias&theme=radical&show_icons=true&hide_border=false&langs_count=6&layout=compact"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguel-zacharias&theme=radical&show_icons=true&hide_border=false&layout=compact&langs_count=6"/>
 </div>
 
 ## Contact 🧷
