@@ -40,19 +40,11 @@
 
 ## 🏆 GitHub Stats
 
-<table>
-  <tr>
-    <td>
-      <img width="400" src="https://github-readme-stats.vercel.app/api?username=miguel-zacharias&theme=tokyonight&show_icons=true&hide_border=false&count_private=true"/>
-    </td>
-    <td>
-      <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=miguel-zacharias&theme=tokyonight&hide_border=false"/>
-    </td>
-    <td>
-      <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguel-zacharias&theme=tokyonight&show_icons=true&hide_border=false&layout=compact&langs_count=8"/>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img height="220" src="https://github-readme-stats.vercel.app/api?username=miguel-zacharias&theme=tokyonight&show_icons=true&hide_border=false&count_private=true"/>
+  <img height="220" src="https://github-readme-streak-stats.herokuapp.com/?user=miguel-zacharias&theme=tokyonight&hide_border=false"/>
+  <img height="220" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguel-zacharias&theme=tokyonight&show_icons=true&hide_border=false&layout=compact&langs_count=8"/>
+</div>
 
 ## Contact 🧷
 
