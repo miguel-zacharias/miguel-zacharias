@@ -54,7 +54,7 @@
 ## Contact 🧷
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/miguel-zacharias" target="_blank">
+  <a href="https://www.linkedin.com/in/miguelzacharias" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=3556E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
   <a href="https://github.com/miguel-zacharias?tab=followers">
