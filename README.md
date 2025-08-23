@@ -1,5 +1,4 @@
-
-  <p align="center">
+<p align="center">
     <b>Delevoper in Brasil</b>
   </p>
 </div>
@@ -39,12 +38,12 @@
 <br><br>
 
 
-## GitHub Stats 🏆
+## 🏆 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=miguel-zacharias&theme=radical&show_icons=true&hide_border=false&count_private=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=miguel-zacharias&theme=radical&hide_border=false"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguel-zacharias&theme=radical&show_icons=true&hide_border=false&layout=compact&langs_count=6"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=miguel-zacharias&theme=tokyonight&show_icons=true&hide_border=false&count_private=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=miguel-zacharias&theme=tokyonight&hide_border=false"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguel-zacharias&theme=tokyonight&show_icons=true&hide_border=false&layout=compact&langs_count=8"/>
 </div>
 
 ## Contact 🧷
