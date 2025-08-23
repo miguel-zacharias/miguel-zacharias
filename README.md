@@ -43,13 +43,13 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=miguel-zacharias&theme=tokyonight&show_icons=true&hide_border=false&count_private=true"/>
+      <img width="400" src="https://github-readme-stats.vercel.app/api?username=miguel-zacharias&theme=tokyonight&show_icons=true&hide_border=false&count_private=true"/>
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=miguel-zacharias&theme=tokyonight&hide_border=false"/>
+      <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=miguel-zacharias&theme=tokyonight&hide_border=false"/>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguel-zacharias&theme=tokyonight&show_icons=true&hide_border=false&layout=compact&langs_count=8"/>
+      <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguel-zacharias&theme=tokyonight&show_icons=true&hide_border=false&layout=compact&langs_count=8"/>
     </td>
   </tr>
 </table>
