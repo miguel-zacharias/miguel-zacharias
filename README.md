@@ -49,7 +49,7 @@
 
 <div align="center" style="margin-top: 20px;">
   <!-- Streak -->
-  <img width="870" src="https://streak-stats.demolab.com?user=miguel-zacharias&theme=blueberry&hide_border=true" alt="github streak"/>
+  <img width="702" src="https://streak-stats.demolab.com?user=miguel-zacharias&theme=blueberry&hide_border=true" alt="github streak"/>
 </div>
 
 
