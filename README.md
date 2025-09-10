@@ -37,10 +37,22 @@
 
 ## 🏆 GitHub Stats
 
-<div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
-  <img width="350" src="https://github-readme-stats.vercel.app/api?username=miguel-zacharias&theme=radical&show_icons=true&hide_border=false&count_private=true"/>
-  <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguel-zacharias&theme=radical&show_icons=true&hide_border=false&layout=compact&langs_count=8"/>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+
+  <!-- Stats -->
+  <img width="420" src="https://github-readme-stats.vercel.app/api?username=miguel-zacharias&theme=radical&show_icons=true&hide_border=false&count_private=true"/>
+
+  <!-- Languages -->
+  <img width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguel-zacharias&theme=radical&show_icons=true&hide_border=false&layout=compact&langs_count=8"/>
+
 </div>
+
+<div align="center" style="margin-top: 20px;">
+  <!-- Streak -->
+  <img width="870" src="https://streak-stats.demolab.com?user=miguel-zacharias&theme=radical&hide_border=true" alt="github streak"/>
+</div>
+
+
 
 ---
 
