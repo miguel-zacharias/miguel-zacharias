@@ -37,15 +37,9 @@
 
 ## 🏆 GitHub Stats
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-
-  <!-- Stats -->
-  <img width="420" src="https://github-readme-stats.vercel.app/api?username=miguel-zacharias&theme=blueberry&show_icons=true&hide_border=false&count_private=true"/>
-
-  <!-- Languages -->
-  <img width="280" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguel-zacharias&theme=blueberry&show_icons=true&hide_border=false&layout=compact&langs_count=8"/>
-
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=miguel-zacharias&theme=blueberry&show_icons=true&hide_border=true&count_private=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguel-zacharias&theme=blueberry&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+<img src="https://streak-stats.demolab.com?user=miguel-zacharias&theme=blueberry&hide_border=true" />
 
 <div align="center" style="margin-top: 20px;">
   <!-- Streak -->
