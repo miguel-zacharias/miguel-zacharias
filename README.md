@@ -1,21 +1,16 @@
 <p align="center">
-    <b>Delevoper in Brasil</b>
-  </p>
+  <b style="color:#3556e0; font-size:1.5rem;">Developer in Brasil</b>
+</p>
+
+<div align="center" style="margin-bottom: 20px;">
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=24&pause=1000&color=3556E0&center=true&vCenter=true&width=550&lines=What+are+you+looking+for+here%3F;Student+at+SENAI+-+Software+Development;Web+%26+Mobile+Developer;Always+learning+%26+building;In+love+with+mimilla" alt="Typing SVG" />
 </div>
 
+---
 
+## ⚒️ Most Used Tools
 
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=550&lines=What+are+you+looking+for+here%3F;Student+at+SENAI+-+Software+Development;Web+%26+Mobile+Developer;Always+learning+%26+building;In+love+with+mimilla" alt="Typing SVG" />
-
-</div>
-
-
-
-## Most Used Tools ⚒️
-
-<div align="center">
-  
+<div align="center" style="margin-bottom: 20px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" />
@@ -30,30 +25,28 @@
 
 ---
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jimmyadmsenior/jimmyadmsenior/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jimmyadmsenior/jimmyadmsenior/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jimmyadmsenior/jimmyadmsenior/output/github-contribution-grid-snake.svg">
-</picture>
-<br><br>
+<div align="center" style="margin-bottom: 20px;">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jimmyadmsenior/jimmyadmsenior/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jimmyadmsenior/jimmyadmsenior/output/github-contribution-grid-snake.svg">
+    <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jimmyadmsenior/jimmyadmsenior/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
+---
 
 ## 🏆 GitHub Stats
 
-<table>
-  <tr>
-    <td>
-      <img width="400" src="https://github-readme-stats.vercel.app/api?username=miguel-zacharias&theme=tokyonight&show_icons=true&hide_border=false&count_private=true"/>
-    </td>
-    <td>
-      <img width="320" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguel-zacharias&theme=tokyonight&show_icons=true&hide_border=false&layout=compact&langs_count=8"/>
-    </td>
-  </tr>
-</table>
+<div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
+  <img width="350" src="https://github-readme-stats.vercel.app/api?username=miguel-zacharias&theme=radical&show_icons=true&hide_border=false&count_private=true"/>
+  <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguel-zacharias&theme=radical&show_icons=true&hide_border=false&layout=compact&langs_count=8"/>
+</div>
 
-## Contact 🧷
+---
 
-<div align="center">
+## 🧷 Contact
+
+<div align="center" style="margin-bottom: 20px;">
   <a href="https://www.linkedin.com/in/miguelzacharias" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=3556E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
@@ -65,6 +58,8 @@
   </a>
 </div>
 
+---
+
 <div align="center">
-  <b style="color:#3556e0;">Thx for your visit ⭐️</b>
+  <b style="color:#3556e0; font-size:1.1rem;">Thx for your visit ⭐️</b>
 </div>
