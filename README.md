@@ -57,17 +57,21 @@
 
 ## 🧷 Contact
 
-<div align="center" style="margin-bottom: 20px;">
+<div align="center">
+
   <a href="https://www.linkedin.com/in/miguelzacharias" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=3556E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-3556E0?style=for-the-badge&logo=linkedin&logoColor=white" height="38" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/miguel-zacharias?tab=followers">
-    <img alt="follows" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/miguel-zacharias?color=3556E0&labelColor=23232b&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+  <a href="https://github.com/miguel-zacharias?tab=followers" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-23232b?style=for-the-badge&logo=github&logoColor=white&color=3556E0" height="38" alt="GitHub Followers" />
   </a>
-  <a href="https://github.com/miguel-zacharias?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/miguel-zacharias?color=55960c&style=for-the-badge&labelColor=23232b&logo=star"/>
+  <a href="https://github.com/miguel-zacharias?tab=repositories&sort=stargazers" target="_blank">
+    <img src="https://img.shields.io/badge/Stars-23232b?style=for-the-badge&logo=star&logoColor=yellow&color=55960c" height="38" alt="GitHub Stars" />
   </a>
+
 </div>
+
+
 
 ---
 
