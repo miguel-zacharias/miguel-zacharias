@@ -39,7 +39,11 @@
 <div align="center" style="margin-top: 20px;">
 <img src="https://github-readme-stats.vercel.app/api?username=miguel-zacharias&theme=blueberry&show_icons=true&hide_border=true&count_private=true"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguel-zacharias&theme=blueberry&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-<img src="https://streak-stats.demolab.com?user=miguel-zacharias&theme=blueberry&hide_border=true" />
+<img 
+  src="https://streak-stats.demolab.com?user=miguel-zacharias&theme=blueberry&hide_border=true" 
+  width="778"
+/>
+
 
 
   
