@@ -25,13 +25,9 @@
 
 ---
 
-<div align="center" style="margin-bottom: 20px;">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jimmyadmsenior/jimmyadmsenior/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jimmyadmsenior/jimmyadmsenior/output/github-contribution-grid-snake.svg">
-    <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jimmyadmsenior/jimmyadmsenior/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
+ 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=miguel-zacharias&bg_color=1e2235&color=00f2a9&line=4b6cb7&point=a3bffa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 ---
 
