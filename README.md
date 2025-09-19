@@ -42,9 +42,7 @@
     width="315"
 
  
-<img 
-  src="https://streak-stats.demolab.com?user=miguel-zacharias&theme=blueberry&hide_border=true" 
-  width="789"
+
 />
 
 
