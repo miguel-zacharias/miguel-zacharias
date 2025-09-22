@@ -7,9 +7,9 @@
 </div>
 
 ---
-
+<p align="center">
   <b style="color:#ffffff; font-size:1.5rem;">Most Used Tools</b>
-
+</p>
 <div align="center" style="margin-bottom: 20px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
