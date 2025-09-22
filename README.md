@@ -8,7 +8,7 @@
 
 ---
 
-<p align="center">⚒️ Most Used Tools</p>
+  <b style="color:#ffffff; font-size:1.5rem;">Most Used Tools</b>
 
 <div align="center" style="margin-bottom: 20px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" width="40" />
