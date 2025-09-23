@@ -62,5 +62,5 @@
 ---
 
 <div align="center">
-  <b style="color:#cccccc; font-size:1.1rem;">Thanks for your visit </b>
+  <b style="color:#cccccc; font-size:1.1rem;">Thanks for your visit!</b>
 </div>
