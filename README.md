@@ -47,15 +47,15 @@
 
 <div align="center">
 
-  <a href="https://www.linkedin.com/in/miguelzacharias" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=white" height="38" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/miguel-zacharias?tab=followers" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" height="38" alt="GitHub Followers" />
-  </a>
-  <a href="https://github.com/miguel-zacharias?tab=repositories&sort=stargazers" target="_blank">
-    <img src="https://img.shields.io/badge/Stars-0d1117?style=for-the-badge&logo=star&logoColor=yellow&color=444444" height="38" alt="GitHub Stars" />
-  </a>
+<a href="https://www.linkedin.com/in/miguelzacharias" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="38" alt="LinkedIn" />
+</a>
+<a href="https://github.com/miguel-zacharias?tab=followers" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="38" alt="GitHub Followers" />
+</a>
+<a href="https://github.com/miguel-zacharias?tab=repositories&sort=stargazers" target="_blank">
+  <img src="https://img.shields.io/badge/Stars-F4C430?style=for-the-badge&logo=star&logoColor=yellow&color=444444" height="38" alt="GitHub Stars" />
+</a>
 
 </div>
 
